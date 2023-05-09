@@ -12,9 +12,11 @@ Este é um projeto de exemplo para demonstrar como criar um portfólio simples u
 
 -Desing tipografia ![](./assets/screenshots/figma-tipografia.png)
 
--Desing buttos ![](./assets/screenshots/figma-buttons.png)
+-Desing buttos 
+![](./assets/screenshots/figma-buttons.png)
 
--Desing Home ![](./assets/screenshots/figma-home.png)
+-Desing Home 
+![](./assets/screenshots/figma-home.png)
 ## Screenshot do projeto
 
 -Header ![](./assets/screenshots/header.png)
