@@ -1,0 +1,109 @@
+footer {
+    width: 1440px;
+    height: 314px;
+    margin-top: 150px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.talktome {
+    width: 1110px;
+    height: 84px;
+    margin: 0 165px 150px 165px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.talktome a:hover {
+    background-color: #33323D;
+    color: #fafafa;
+}
+
+.talktome h2 {
+    width: 367px;
+    height: 84px;
+
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+    /* or 105% */
+
+    letter-spacing: -0.357143px;
+
+    color: #33323D;
+}
+
+.talktome a {
+    height: 48px;
+    width: 168px;
+    border: 1px solid #33323D;
+
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: #33323D;
+}
+
+.nav-bar-ft {
+    width: 100%;
+    height: 80px;
+    background-color: #33323D;
+    display: flex;
+    align-items: center;
+    
+}
+
+.logo-ft {
+    width: 61px;
+    height: 32px;
+    margin: 0 25px 0 165px;
+}
+
+.nav-footer {
+    width: 309px;
+    height: 14px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  
+}
+
+.nav-footer a {
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+.social-media-ft {
+    width: 104px;
+    height: 24px;
+    margin-left: 615px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  
+}

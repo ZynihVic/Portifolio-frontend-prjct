@@ -1,0 +1,25 @@
+.active {
+    color: #5FB4A2;
+}
+.reverse {
+    flex-direction: row-reverse;
+}
+
+.border {
+    width: 350px;
+    height: 500px;
+    
+    display: flex;
+    flex-direction: column;
+    border-top: 1px solid rgba(51, 50, 61, 0.15);
+    border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+}
+
+.txcolor {
+    color: #5FB4A2;
+}
+.p-size {
+    height: 150px;
+    width: 353px;
+    margin-bottom: 23px;
+}

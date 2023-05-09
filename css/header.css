@@ -1,0 +1,42 @@
+header {
+    width: 1111px;
+    height: 32px;
+    margin: 64px 164px 0px 165px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    
+}
+.logo-hd {
+    width: 60px;
+    height: 32px;
+   
+}
+nav {
+    align-self: center;
+}
+nav a {
+    color: #33223D;
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+     
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    margin: 9px 0px;
+    
+    text-transform: uppercase;
+    
+}
+.nav-cont-hd {
+    margin-right: 0px;
+}
+.nav-home-hd {
+    margin-right: 42px;
+}
+.nav-port-hd {
+    margin-right: 43px;
+}

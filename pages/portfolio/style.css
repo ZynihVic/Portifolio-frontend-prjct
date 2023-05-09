@@ -1,0 +1,103 @@
+@import url(../../css/global.css);
+@import url(../../css/header.css);
+@import url(../../css/utils.css);
+@import url(../../css/footer.css);
+
+main {
+    width: 1015px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 213px 0 212px;
+}
+.sect-manage {
+    margin-top: 94px;
+}
+
+main section {
+    height: 500px;
+    width: 1015px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 80px;
+    justify-content: space-between;
+    
+}
+
+main section img {
+    width: 540px;
+    height: 500px;
+    display: flex;
+    
+}
+
+main section div {
+    width: 350px;
+    height: 292px;
+    
+    display: flex;
+
+    justify-content: space-evenly;
+}
+
+main section h2 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+    /* identical to box height, or 105% */
+
+    letter-spacing: -0.357143px;
+
+    color: #33323D;
+    margin-top: 30px;
+}
+
+main section p {
+    
+    height: 120px;
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    /* or 188% */
+    
+    text-align: left;
+    align-items: center;
+
+    color: #33323D;
+    
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+.ins-tx p, .fylo-tx p {
+    height: 150px;
+}
+
+main section a{
+    height: 48px;
+    width: 204px;
+    border: 1px solid #33323D;
+
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+    
+    color: #33323D;
+}
+
+main section a:hover{
+    background-color: #33323D;
+    color: #fafafa;
+}

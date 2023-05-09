@@ -1,0 +1,238 @@
+main {
+    width: 1110px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 94px 165px 0 165px;
+}
+
+.hero-sect img {
+    height: 500px;
+    margin-bottom: 115px;
+
+}
+
+main .main-sect {
+    width: 1110px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+aside {
+    width: 350px;
+    height: 498px;
+    display: flex;
+    flex-direction: column;
+}
+
+aside h2 {
+    margin: 48px 0 29px 0;
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+    /* identical to box height, or 105% */
+
+    letter-spacing: -0.357143px;
+
+    color: #33323D;
+
+}
+
+aside p {
+    height: 120px;
+    width: 353px;
+    margin-bottom: 53px;
+
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    /* or 188% */
+
+    color: #33323D;
+
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+aside span {
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 188% */
+    display: flex;
+    margin-bottom: 16px
+}
+
+aside a {
+    height: 48px;
+    width: 178px;
+    border: 1px solid #33323D;
+
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: 16px 0 48px 0;
+    color: #33323D;
+}
+
+aside a:hover{
+    background-color: #33323D;
+    color: #fafafa;
+}
+
+.prvw-prjct {
+    width: 635px;
+    height: 1192px;
+    margin-bottom: 64px;
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.prvw-prjct h3 {
+    margin-bottom: 28px;
+
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 42px;
+    /* identical to box height, or 131% */
+
+    letter-spacing: -0.285714px;
+
+    color: #33323D;
+}
+
+.prvw-prjct p {
+    margin-bottom: 40px;
+
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+    /* or 200% */
+
+
+    color: #33323D;
+
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.prvw-prjct img {
+    width: 635px;
+    height: 400px;
+    margin-bottom: 32px;
+}
+
+
+.link-nav {
+    width: 1110px;
+    height: 132px;
+    margin-top: 32px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.previous-proj {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.previous-proj div {
+    margin: 32px 0 32px 32px;
+    align-items: center;
+    text-align: left;
+}
+
+.previous-proj h3 {
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    /* identical to box height, or 112% */
+
+    letter-spacing: -0.285714px;
+
+    color: #33323D;
+}
+
+.previous-proj span {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 188% */
+
+
+    color: #33323D;
+
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+
+.next-proj {
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+
+.next-proj div {
+    margin: 32px 32px 32px 0;
+    align-items: center;
+    text-align: right;
+}
+
+.next-proj h3 {
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    /* identical to box height, or 112% */
+
+    letter-spacing: -0.285714px;
+
+    color: #33323D;
+}
+
+.next-proj span {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 188% */
+    
+    color: #33323D;
+
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}

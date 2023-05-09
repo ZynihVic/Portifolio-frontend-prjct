@@ -1,0 +1,190 @@
+@import url(../../css/global.css);
+@import url(../../css/header.css);
+@import url(../../css/utils.css);
+@import url(../../css/footer.css);
+
+.mn-home {
+    width: 1110px;
+    height: 600px;
+    margin: 58px 165px 150px 165px;
+
+    display: flex;
+    position: relative;
+    flex-direction: column;
+}
+
+.mn-home img {
+    width: 100%;
+    height: 100%;
+}
+
+.mn-about {
+    width: 445px;
+    height: 357px;
+    bottom: 59.5%;
+
+    display: flex;
+    position: relative;
+    align-items: center;
+    flex-direction: column;
+
+    background-color: #fafafa;
+}
+
+.h1-about {
+    height: 200px;
+    width: 390px;
+    margin: 56px 28px 53px 27px;
+
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+    /* or 100% */
+    letter-spacing: -0.446429px;
+
+    color: #33323D;
+}
+
+.setabx {
+    height: 48px;
+    width: 445px;
+
+    display: flex;
+    align-self: flex-start;
+}
+
+
+.lg-svg-bottom {
+    height: 48px;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(51, 50, 61, 0.3);
+}
+
+.lg-stbx {
+    height: 48px;
+    width: 200px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #203A4C;
+}
+
+.setabx:hover g {
+    stroke: #fafafa;
+}
+
+.lg-stbx:hover {
+    background-color: #5FB4A2;
+}
+
+
+.abtme-a {
+    height: 100%;
+    width: 200px;
+
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: #fafafa;
+}
+
+
+.sectabout-me {
+    width: 1110px;
+    height: 601px;
+    margin: 150px 165px 0px 165px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.abtme-img img {
+    width: 540px;
+    height: 600px;
+}
+
+.abtme-tx {
+    width: 430px;
+    height: 601px;
+
+    display: flex;
+    flex-direction: column;
+    border-top: 1px solid rgba(51, 50, 61, 0.15);
+    border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+}
+
+.abtme-tx h2 {
+    margin: 51px 0 28px 0;
+
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+    /* identical to box height, or 105% */
+
+    letter-spacing: -0.357143px;
+
+    color: #33323D;
+}
+
+.abtme-tx p {
+    height: 360px;
+    width: 437px;
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    /* or 188% */
+
+    display: flex;
+    text-align: left;
+    opacity: 0.8;
+
+    color: #33323D;
+}
+
+.abt-port {
+    height: 48px;
+    width: 204px;
+    margin: 24px 113px 46px 113px;
+    border: 1px solid #33323D;
+
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+    color: #33323D;
+}
+
+.abt-port:hover {
+    background-color: #33323D;
+    color: #fafafa;
+}
