@@ -9,16 +9,24 @@ Este é um projeto de exemplo para demonstrar como criar um portfólio simples u
 ## Screenshot do FIGMA 
 
 -Desing colors![](./assets/screenshots/figma-colors.png)
+
 -Desing tipografia ![](./assets/screenshots/figma-tipografia.png)
+
 -Desing buttos ![](./assets/screenshots/figma-buttons.png)
+
 -Desing Home ![](./assets/screenshots/figma-home.png)
 ## Screenshot do projeto
 
 -Header ![](./assets/screenshots/header.png)
+
 -About-me ![](./assets/screenshots/about-me.png)
+
 -Projects ![](./assets/screenshots/Projects.png)
+
 -Projects-info ![](./assets/screenshots/projects-info.png)
+
 -Footer ![](./assets/screenshots/footer.png)
+
 ## Funcionalidades
 
 - Sobre mim: apresenta informações sobre o autor do portfólio 
