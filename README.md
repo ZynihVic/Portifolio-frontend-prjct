@@ -8,18 +8,17 @@ Este é um projeto de exemplo para demonstrar como criar um portfólio simples u
 
 ## Screenshot do FIGMA 
 
-![](https://prnt.sc/Mgbah7Hj8r3l)
-![](https://prnt.sc/dJtZSYJxXtgM)
-![](https://prnt.sc/RpHzxcBz5Vr1)
-![](https://prnt.sc/jRhLaGaoh5LG)
+-Desing colors![](./assets/screenshots/figma-colors.png)
+-Desing tipografia ![](./assets/screenshots/figma-tipografia.png)
+-Desing buttos ![](./assets/screenshots/figma-buttons.png)
+-Desing Home ![](./assets/screenshots/figma-home.png)
 ## Screenshot do projeto
 
--Header ![](https://prnt.sc/lTqvb1FWkXod)
-![](https://prnt.sc/aS6Zx0232WFc)
-![](https://prnt.sc/WzqMotcTU3mw)
-![](https://prnt.sc/Ukv0qWDiV6_-)
-![](https://prnt.sc/_I23wondabV5)
-
+-Header ![](./assets/screenshots/header.png)
+-About-me ![](./assets/screenshots/about-me.png)
+-Projects ![](./assets/screenshots/Projects.png)
+-Projects-info ![](./assets/screenshots/projects-info.png)
+-Footer ![](./assets/screenshots/footer.png)
 ## Funcionalidades
 
 - Sobre mim: apresenta informações sobre o autor do portfólio 
@@ -40,5 +39,5 @@ Este é um projeto de exemplo para demonstrar como criar um portfólio simples u
 Este projeto foi criado por [Victor Zynih](https://github.com/ZynihVic). Entre em contato para mais informações.
 
 ## Créditos 
-    Este projeto foi desenvolvido em aula com a empresa de ensino [Cubos Academy](https://cubos.academy/). Agradeço a todos envolvidos.
+Este projeto foi desenvolvido em aula com a empresa de ensino [Cubos Academy](https://cubos.academy/). Agradeço a todos envolvidos.
 
