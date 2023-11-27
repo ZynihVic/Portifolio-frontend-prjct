@@ -2,9 +2,6 @@
 
 Este é um projeto de exemplo para demonstrar como criar um portfólio simples utilizando HTML e CSS com o FIGMA de base.
 
-## Demo
-
-[Link para a demo do projeto](https://github.com/ZynihVic/Portifolio-frontent-prjct)
 
 ## Screenshot do FIGMA 
 
